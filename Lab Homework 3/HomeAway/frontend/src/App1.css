@@ -1,0 +1,274 @@
+.x{
+  background-color:  #0067db;
+}
+.list.btn-inverse{
+  float: right;
+    background-color:white;
+    color: #0067db;
+    border-color: #fff;
+    margin-right: 10px;
+    height: 40px;
+    text-align: center;
+    margin-top: 5px;
+}
+#list{
+  
+    display: none;
+    font-size: 14px;
+    margin: 0 15px;
+    padding: 12px 40px;
+  
+
+}
+.nav-link
+{
+  padding-right:10px;
+  margin-top:10px;
+}
+.btn {
+  
+  border-radius: 200px;
+  position: relative;
+  display: inline-block;
+  margin-bottom: 0;
+  border: 2px solid transparent;
+  font-weight: 400;
+  text-align: center;
+  vertical-align: middle;
+  touch-action: manipulation;
+  cursor: pointer;
+  background-image: none;
+  
+  
+}
+.dropdown-item
+{
+  color:#0067db;
+}
+.dropdown, .dropup {
+  position: relative;
+  padding: 10px;
+}
+.body1{
+  background-size: cover ;
+  background: url('./components/HomePage/cute.jpg'); 
+  background-repeat  : 'no-repeat';
+  background-position: 'center';
+  background-size: 100%;
+  min-height: 100%;
+
+}
+.container{
+
+
+  
+  min-height: 10px;
+  background-position: 100%;
+  width: 100%;
+ 
+  
+}
+#bg {
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+	
+  /* Preserve aspet ratio */
+  width: 100%;
+  min-height: 100%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: inline;
+  overflow: hidden;
+ 
+}
+
+li {
+  float: right;
+  color: white;
+}
+#image{
+  float: right;
+}
+
+li a list{
+ 
+  color:white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  
+}
+
+li a:hover {
+  background-color: wheat;
+}
+
+:Content{
+background-position: 50%;
+background-size: cover;
+}
+:content{
+  width: 100%;
+  max-width: 1020px;
+  margin: auto;
+  padding: 0 10px;
+}
+.HeadLine {
+  font-size: 24px;
+}
+.HeadLine {
+  color: #fff;
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: .1px;
+  text-align: left;
+  line-height: normal;
+  margin: 0 10px 10px;
+  
+}
+
+.logo
+{
+  margin-left: 25px;
+  color: white;
+ 
+ 
+}
+#logo1
+{
+  float: left;
+}
+a{
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+}
+.a {
+  background-color: transparent;
+
+}
+
+.navbar.navbar-inverse
+{
+  padding-top: 10px;    
+
+}
+.main{
+  background-size: cover;
+    background-position: 100%;
+}
+.main-inner{
+  position: relative;
+  -webkit-box-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: flex;
+ 
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  flex-direction: column;
+  min-height: 78vh;
+  
+}
+.main-content
+{
+  
+    width: 100%;
+    max-width: 1020px;
+  
+    padding: 100px 10px;
+    
+    
+    color: white;
+
+}
+.content {
+  
+font-size: 40px;
+}
+.input
+{
+  width: calc(36% - 10px);
+  height: 60px;
+  border-radius: 5px;
+  border-color: white;
+  background: white;
+  padding: 10px;
+  margin-right: 10px;
+  color:black;
+
+}
+.input1
+{
+  width: calc(16% - 10px);
+  height: 60px;
+  border-radius: 5px;
+  border-color: white;
+  background: white;
+  padding: 10px;
+  margin-right: 10px;
+  color: black
+
+}
+.input2
+{
+  width: 15%;
+  height: 60px;
+  border-radius: 5px;
+  border-color: white;
+  background: white;
+  margin-right: 10px;
+  padding:10px;
+  color:black;
+}
+.btn-primary {
+  position: relative;
+  border-radius: 100px;
+  background-color: #0067db;
+  border-color: #0067db;
+  color: #fff;
+  text-shadow: none;
+  -webkit-transition: all .25s ease-in-out;
+  transition: all .25s ease-in-out;
+ 
+  box-shadow: none;
+}
+.btn1
+{
+  width: 15%;
+  height: 60px;
+  padding: 10px;
+
+}
+.navbar-inverse {
+  background-color: transparent;
+  border-color: transparent;
+}
+.navbar1{
+  float: right;
+}
+.bottom
+{
+  width: 100%;
+    padding-bottom: 16px;
+}
+.bottom>ul>item
+{
+  width: 33.33%;
+    text-align: center;
+    color: #fff;
+    font-size: calc(9.567999px - -1 * (1vw - 767px / 100) * .6521009603841537);
+}
+.btn.btn-inverse
+{
+  border-radius:25px;
+  text-align:center;
+  vertical-align:middle;
+  background-color:white;
+  color:#0067db;
+}

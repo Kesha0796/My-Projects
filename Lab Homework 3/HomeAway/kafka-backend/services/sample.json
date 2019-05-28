@@ -1,0 +1,21 @@
+{
+    "payload": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "Address":"868 South,5th street,#215",
+      "City":"San Jose",
+      "State":"California",
+      "Zip Code":"95112",
+      "Experience":"Energetic software engineer with 7+ years experience developing robust code for high-volume businesses. Increased code-efficiency of XYZ Corp customer portal by 55%. Boosted customer retention by 25%. Spearheaded a team that won the 2016 BOSSIE Award for cloud computing. An enthusiastic team player and deep creative thinker.",
+      "Education1(school name)":"San Jose State University",
+      "Education1(degree)":"Master’s degree",
+      "Education1(field of study)":"Education1(field of study)",
+      "Education1(startdate)":"22/08/2018",
+      "Education1(enddate)":"04/24/2020",
+      "Education1(gpa)":"3.5",
+      "Skills":"C++,JAVA,JAVASCRIPT",
+      "Profile Summary":"In 2013, my online brand campaign for the Dorsey Children’s Hospital won a GDUSA award, one of the most prestigious honors in the graphic design industry.My work has also been featured in Creatique Bloq, Compound Magazine, and on the Creative Review blog.Skills: logo design, web design, branding and identity, typography, UI design, packaging, CSS, HTML, InDesign, Photoshop, Illustrator",
+      "Resume":"Resume.pdf"
+    }
+}
+   
